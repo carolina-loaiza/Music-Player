@@ -1,0 +1,84 @@
+{
+	"playlist":[
+		{
+			"title":"Everybody hurts sometime",
+			"artist":"Beck",
+			"album":"Soundtrack",
+			"src":"song1.mp3",
+			"cover":"cover1.png",
+			"timing":"5:54"
+		},
+		{
+			"title":"My way",
+			"artist":"Frank Sinatra",
+			"album":"Anthology",
+			"src":"song2.mp3",
+			"cover":"cover2.png",
+			"timing":"4:36"
+		},
+		{
+			"title":"Beat it",
+			"artist":"Michael Jackson",
+			"album":"",
+			"src":"song3.mp3",
+			"cover":"cover3.png",
+			"timing":"4:57"
+		},
+		{
+			"title":"True love will find you in the end",
+			"artist":"Daniel Johnston",
+			"album":"Welcome to my world",
+			"src":"song4.mp3",
+			"cover":"cover4.png",
+			"timing":"1:51"
+		},
+		{
+			"title":"Trollolol",
+			"artist":"Troll",
+			"album":"single",
+			"src":"song5.mp3",
+			"cover":"cover5.png",
+			"timing":"2:41"
+		},
+		{
+			"title":"Song of Healing",
+			"artist":"Zelda Orchestra",
+			"album":"Majora's Mask",
+			"src":"song6.mp3",
+			"cover":"cover6.png",
+			"timing":"2:49"
+		},
+		{
+			"title":"Imperios",
+			"artist":"Monte",
+			"album":"Monte",
+			"src":"song7.mp3",
+			"cover":"cover7.png",
+			"timing":"4:53"
+		},
+		{
+			"title":"Blitzkrieg bop",
+			"artist":"The Ramones",
+			"album":"The Ramones",
+			"src":"song8.mp3",
+			"cover":"cover8.png",
+			"timing":"2:24"
+		},
+		{
+			"title":"Someday",
+			"artist":"The Strokes",
+			"album":"Someday",
+			"src":"song9.mp3",
+			"cover":"cover9.png",
+			"timing":"3:05"
+		},
+		{
+			"title":"Somewhere over the Rainbow",
+			"artist":"The wizard of Oz",
+			"album":"Soundtrack",
+			"src":"song10.mp3",
+			"cover":"cover10.png",
+			"timing":"3:00"
+		}
+	]
+}
